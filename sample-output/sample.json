@@ -1,0 +1,733 @@
+[
+  {
+    "id": "90000001",
+    "url": "https://www.seek.com.au/job/90000001",
+    "jobLink": "https://www.seek.com.au/job/90000001",
+    "applyLink": "https://www.seek.com.au/job/90000001/apply",
+    "title": "Data Analyst",
+    "teaser": "Turn messy operational data into clear weekly reporting for a growing analytics team.",
+    "jobHook": "Hybrid role, 3 days in the office",
+    "abstract": "Turn messy operational data into clear weekly reporting for a growing analytics team.",
+    "content": "<p>About the role: you will build and maintain dashboards for the operations team.</p><p>About you: strong SQL, some Python, clear written communication.</p>",
+    "contentText": "About the role: you will build and maintain dashboards for the operations team. About you: strong SQL, some Python, clear written communication.",
+    "contentSections": [
+      "About the role: you will build and maintain dashboards for the operations team.",
+      "About you: strong SQL, some Python, clear written communication."
+    ],
+    "bulletPoints": [
+      "SQL and Python every day",
+      "Hybrid: 3 days in office",
+      "Mentored by a senior analyst"
+    ],
+    "companyName": "Harbourline Analytics",
+    "companyId": "900101",
+    "companyUrl": "https://www.seek.com.au/companies/harbourline-analytics-900101",
+    "companyNameSlug": "harbourline-analytics-900101",
+    "companyProfileId": 900101,
+    "companyOverview": "Harbourline Analytics is a fictional employer used in this mock sample.",
+    "companyIndustry": "Professional Services",
+    "companySize": "51-200 employees",
+    "companyWebsite": "https://www.example.com/harbourline-analytics",
+    "companySpecialities": [
+      "Example speciality A",
+      "Example speciality B"
+    ],
+    "companyPrimaryLocation": "Parramatta, NSW",
+    "companyLogo": "https://image-service-cdn.seek.com.au/example/logo-900101.png",
+    "companyCoverImage": "https://image-service-cdn.seek.com.au/example/cover-900101.jpg",
+    "companyRating": 4.2,
+    "companyReviewCount": 37,
+    "companySalaryRating": 4,
+    "companyPerks": [
+      "Flexible hours",
+      "Learning budget"
+    ],
+    "companyAwards": [
+      {
+        "name": "Example Employer Award",
+        "year": 2025,
+        "imageUrl": "https://image-service-cdn.seek.com.au/example/award.png"
+      }
+    ],
+    "advertiserId": "80000001",
+    "advertiserName": "Harbourline Analytics",
+    "locationLabel": "Parramatta, Sydney NSW",
+    "locationSeoHierarchy": [
+      "Parramatta NSW",
+      "Parramatta, Sydney NSW"
+    ],
+    "countryCode": "AU",
+    "classifications": [
+      {
+        "id": "6281",
+        "label": "Technology & Data (mock category)",
+        "subId": "6287",
+        "subLabel": "Database Development & Administration"
+      }
+    ],
+    "classificationInfo": {
+      "classification": "Technology & Data (mock category)",
+      "subClassification": "Database Development & Administration",
+      "classificationId": "6281",
+      "subClassificationId": "6287"
+    },
+    "workTypes": [
+      "Full time"
+    ],
+    "workTypeIds": [
+      "242"
+    ],
+    "workArrangements": [
+      {
+        "id": "3",
+        "label": {
+          "text": "Hybrid"
+        }
+      }
+    ],
+    "workArrangementLabels": [
+      "Hybrid"
+    ],
+    "workArrangementDisplayText": null,
+    "salaryLabel": "$95,000 - $110,000 + super",
+    "salary": "$95,000 - $110,000 + super",
+    "salaryCurrency": "AUD",
+    "salaryMin": 95000,
+    "salaryMax": 110000,
+    "salaryPeriod": "annual",
+    "phoneNumber": null,
+    "phoneNumbers": [],
+    "phoneNumbersFromBody": [],
+    "emails": [
+      "careers@harbourline.example.com"
+    ],
+    "contactMatches": [
+      {
+        "type": "email",
+        "value": "careers@harbourline.example.com"
+      }
+    ],
+    "shareLink": "https://www.seek.com.au/job/90000001?type=share",
+    "listingDate": "2026-01-14T22:10:00.000Z",
+    "listingDateDisplay": "16h ago",
+    "expiresAt": "2026-02-13T12:59:59.999Z",
+    "isVerified": true,
+    "isExpired": false,
+    "status": "Active",
+    "isLinkOut": false,
+    "sourceZone": "anz-1",
+    "jobVideoUrl": "",
+    "jobVideoPosition": "BOTTOM",
+    "displayTags": [],
+    "roleId": "data-analyst",
+    "tags": [
+      {
+        "type": "EARLY_APPLICANT",
+        "label": "Be an early applicant"
+      }
+    ],
+    "jobLocationInfo": {
+      "displayLocation": "Parramatta, Sydney NSW",
+      "location": "Parramatta",
+      "area": null,
+      "countryCode": "AU",
+      "seoHierarchy": [
+        "Parramatta NSW",
+        "Parramatta, Sydney NSW"
+      ]
+    },
+    "branding": {
+      "serpLogoUrl": "https://image-service-cdn.seek.com.au/example/logo-900101.png"
+    },
+    "advertiser": {
+      "logo": "https://image-service-cdn.seek.com.au/example/logo-900101.png",
+      "id": "80000001",
+      "name": "Harbourline Analytics",
+      "isVerified": true,
+      "registrationDate": "2019-03-14T00:00:00.000Z"
+    },
+    "companyOpenJobs": "Harbourline Analytics",
+    "companyTags": [],
+    "advertiserRaw": {
+      "id": "80000001",
+      "description": "Harbourline Analytics"
+    },
+    "employerRaw": {
+      "id": "80000001",
+      "name": "Harbourline Analytics",
+      "companyId": "900101",
+      "companyUrl": "https://www.seek.com.au/companies/harbourline-analytics-900101"
+    },
+    "brandingRaw": {
+      "serpLogoUrl": "https://image-service-cdn.seek.com.au/example/logo-900101.png"
+    },
+    "companyProfileRaw": {
+      "id": "900101",
+      "name": "Harbourline Analytics",
+      "companyNameSlug": "harbourline-analytics-900101",
+      "shouldDisplayReviews": true,
+      "branding": {
+        "logo": "https://image-service-cdn.seek.com.au/example/logo-900101.png"
+      },
+      "overview": {
+        "description": {
+          "paragraphs": [
+            "Harbourline Analytics is a fictional employer used in this mock sample."
+          ]
+        },
+        "industry": "Professional Services",
+        "size": {
+          "description": "51-200 employees"
+        },
+        "website": {
+          "url": "https://www.example.com/harbourline-analytics"
+        },
+        "specialities": "Example speciality A, Example speciality B",
+        "primaryLocation": "Parramatta, NSW"
+      },
+      "reviewsSummary": {
+        "overallRating": {
+          "value": 4.2,
+          "numberOfReviews": {
+            "value": 37
+          }
+        },
+        "salaryRating": {
+          "value": 4
+        }
+      },
+      "perksAndBenefits": [
+        {
+          "title": "Flexible hours"
+        },
+        {
+          "title": "Learning budget"
+        }
+      ],
+      "awards": [
+        {
+          "name": "Example Employer Award",
+          "year": 2025,
+          "imageUrl": "https://image-service-cdn.seek.com.au/example/award.png"
+        }
+      ]
+    },
+    "isFeatured": false,
+    "displayType": "promoted",
+    "adProductType": null,
+    "postedTime": "16h ago",
+    "detailFetched": true,
+    "scrapedAt": "2026-01-15T03:00:00.000Z",
+    "numApplicants": 24,
+    "applicantCountLabel": "24 applicants",
+    "applicantVolumeLabel": "Few applicants so far (mock label)",
+    "resumePercentage": 90,
+    "coverLetterPercentage": 40,
+    "employerQuestions": [
+      "How many years' experience do you have as a data analyst?"
+    ],
+    "hasRoleRequirements": true,
+    "isPrivateAdvertiser": false,
+    "recruiterProfile": null,
+    "locationSuburb": "Parramatta",
+    "locationState": "NSW",
+    "locationPostcode": "2150",
+    "isRepost": false,
+    "repostOfId": null,
+    "searchQuery": null,
+    "searchUrl": "https://www.seek.com.au/jobs?keywords=example",
+    "urlsFromBody": [],
+    "socialProfiles": []
+  },
+  {
+    "id": "90000002",
+    "url": "https://www.seek.com.au/job/90000002",
+    "jobLink": "https://www.seek.com.au/job/90000002",
+    "applyLink": "https://www.seek.com.au/job/90000002/apply",
+    "title": "Registered Nurse - Aged Care",
+    "teaser": "Join a friendly residential care team on a part-time roster that fits around you.",
+    "jobHook": "Rosters set 4 weeks ahead",
+    "abstract": "Join a friendly residential care team on a part-time roster that fits around you.",
+    "content": "<p>About the role: provide person-centred clinical care to our residents.</p><p>About you: current AHPRA registration as a Registered Nurse.</p>",
+    "contentText": "About the role: provide person-centred clinical care to our residents. About you: current AHPRA registration as a Registered Nurse.",
+    "contentSections": [
+      "About the role: provide person-centred clinical care to our residents.",
+      "About you: current AHPRA registration as a Registered Nurse."
+    ],
+    "bulletPoints": [
+      "Salary packaging available",
+      "Supportive clinical leadership",
+      "Free on-site parking"
+    ],
+    "companyName": "Wattle Grove Care",
+    "companyId": "900202",
+    "companyUrl": "https://www.seek.com.au/companies/wattle-grove-care-900202",
+    "companyNameSlug": "wattle-grove-care-900202",
+    "companyProfileId": 900202,
+    "companyOverview": "Wattle Grove Care is a fictional employer used in this mock sample.",
+    "companyIndustry": "Hospitals & Healthcare",
+    "companySize": "201-500 employees",
+    "companyWebsite": "https://www.example.com/wattle-grove-care",
+    "companySpecialities": [
+      "Example speciality A",
+      "Example speciality B"
+    ],
+    "companyPrimaryLocation": "Geelong, VIC",
+    "companyLogo": "https://image-service-cdn.seek.com.au/example/logo-900202.png",
+    "companyCoverImage": "https://image-service-cdn.seek.com.au/example/cover-900202.jpg",
+    "companyRating": 3.9,
+    "companyReviewCount": 112,
+    "companySalaryRating": 4,
+    "companyPerks": [
+      "Salary packaging",
+      "Paid parental leave"
+    ],
+    "companyAwards": [
+      {
+        "name": "Example Employer Award",
+        "year": 2025,
+        "imageUrl": "https://image-service-cdn.seek.com.au/example/award.png"
+      }
+    ],
+    "advertiserId": "80000002",
+    "advertiserName": "Wattle Grove Care",
+    "locationLabel": "Geelong, Geelong & Western VIC",
+    "locationSeoHierarchy": [
+      "Geelong VIC",
+      "Geelong, Geelong & Western VIC"
+    ],
+    "countryCode": "AU",
+    "classifications": [
+      {
+        "id": "1211",
+        "label": "Health & Aged Care (mock category)",
+        "subId": "6215",
+        "subLabel": "Nursing - Aged Care"
+      }
+    ],
+    "classificationInfo": {
+      "classification": "Health & Aged Care (mock category)",
+      "subClassification": "Nursing - Aged Care",
+      "classificationId": "1211",
+      "subClassificationId": "6215"
+    },
+    "workTypes": [
+      "Part time"
+    ],
+    "workTypeIds": [
+      "243"
+    ],
+    "workArrangements": [
+      {
+        "id": "1",
+        "label": {
+          "text": "On-site"
+        }
+      }
+    ],
+    "workArrangementLabels": [
+      "On-site"
+    ],
+    "workArrangementDisplayText": null,
+    "salaryLabel": "$45 - $52 per hour + penalty rates",
+    "salary": "$45 - $52 per hour + penalty rates",
+    "salaryCurrency": "AUD",
+    "salaryMin": 45,
+    "salaryMax": 52,
+    "salaryPeriod": "hourly",
+    "phoneNumber": null,
+    "phoneNumbers": [
+      "03 5550 0123"
+    ],
+    "phoneNumbersFromBody": [
+      "03 5550 0123"
+    ],
+    "emails": [
+      "recruitment@wattlegrove.example.com"
+    ],
+    "contactMatches": [
+      {
+        "type": "phone",
+        "value": "03 5550 0123"
+      },
+      {
+        "type": "email",
+        "value": "recruitment@wattlegrove.example.com"
+      }
+    ],
+    "shareLink": "https://www.seek.com.au/job/90000002?type=share",
+    "listingDate": "2026-01-13T01:30:00.000Z",
+    "listingDateDisplay": "2d ago",
+    "expiresAt": "2026-02-12T12:59:59.999Z",
+    "isVerified": true,
+    "isExpired": false,
+    "status": "Active",
+    "isLinkOut": false,
+    "sourceZone": "anz-1",
+    "jobVideoUrl": "",
+    "jobVideoPosition": "BOTTOM",
+    "displayTags": [],
+    "roleId": "registered-nurse---aged-care",
+    "tags": [
+      {
+        "type": "EARLY_APPLICANT",
+        "label": "Be an early applicant"
+      }
+    ],
+    "jobLocationInfo": {
+      "displayLocation": "Geelong, Geelong & Western VIC",
+      "location": "Geelong",
+      "area": null,
+      "countryCode": "AU",
+      "seoHierarchy": [
+        "Geelong VIC",
+        "Geelong, Geelong & Western VIC"
+      ]
+    },
+    "branding": {
+      "serpLogoUrl": "https://image-service-cdn.seek.com.au/example/logo-900202.png"
+    },
+    "advertiser": {
+      "logo": "https://image-service-cdn.seek.com.au/example/logo-900202.png",
+      "id": "80000002",
+      "name": "Wattle Grove Care",
+      "isVerified": true,
+      "registrationDate": "2019-03-14T00:00:00.000Z"
+    },
+    "companyOpenJobs": "Wattle Grove Care",
+    "companyTags": [],
+    "advertiserRaw": {
+      "id": "80000002",
+      "description": "Wattle Grove Care"
+    },
+    "employerRaw": {
+      "id": "80000002",
+      "name": "Wattle Grove Care",
+      "companyId": "900202",
+      "companyUrl": "https://www.seek.com.au/companies/wattle-grove-care-900202"
+    },
+    "brandingRaw": {
+      "serpLogoUrl": "https://image-service-cdn.seek.com.au/example/logo-900202.png"
+    },
+    "companyProfileRaw": {
+      "id": "900202",
+      "name": "Wattle Grove Care",
+      "companyNameSlug": "wattle-grove-care-900202",
+      "shouldDisplayReviews": true,
+      "branding": {
+        "logo": "https://image-service-cdn.seek.com.au/example/logo-900202.png"
+      },
+      "overview": {
+        "description": {
+          "paragraphs": [
+            "Wattle Grove Care is a fictional employer used in this mock sample."
+          ]
+        },
+        "industry": "Hospitals & Healthcare",
+        "size": {
+          "description": "201-500 employees"
+        },
+        "website": {
+          "url": "https://www.example.com/wattle-grove-care"
+        },
+        "specialities": "Example speciality A, Example speciality B",
+        "primaryLocation": "Geelong, VIC"
+      },
+      "reviewsSummary": {
+        "overallRating": {
+          "value": 3.9,
+          "numberOfReviews": {
+            "value": 112
+          }
+        },
+        "salaryRating": {
+          "value": 4
+        }
+      },
+      "perksAndBenefits": [
+        {
+          "title": "Salary packaging"
+        },
+        {
+          "title": "Paid parental leave"
+        }
+      ],
+      "awards": [
+        {
+          "name": "Example Employer Award",
+          "year": 2025,
+          "imageUrl": "https://image-service-cdn.seek.com.au/example/award.png"
+        }
+      ]
+    },
+    "isFeatured": false,
+    "displayType": "promoted",
+    "adProductType": null,
+    "postedTime": "2d ago",
+    "detailFetched": true,
+    "scrapedAt": "2026-01-15T03:00:00.000Z",
+    "numApplicants": 8,
+    "applicantCountLabel": "8 applicants",
+    "applicantVolumeLabel": "Few applicants so far (mock label)",
+    "resumePercentage": 90,
+    "coverLetterPercentage": 40,
+    "employerQuestions": [
+      "Do you have current AHPRA registration?",
+      "Which shifts are you available for?"
+    ],
+    "hasRoleRequirements": true,
+    "isPrivateAdvertiser": false,
+    "recruiterProfile": null,
+    "locationSuburb": "Geelong",
+    "locationState": "VIC",
+    "locationPostcode": "3220",
+    "isRepost": false,
+    "repostOfId": null,
+    "searchQuery": null,
+    "searchUrl": "https://www.seek.com.au/jobs?keywords=example",
+    "urlsFromBody": [],
+    "socialProfiles": []
+  },
+  {
+    "id": "90000003",
+    "url": "https://www.seek.co.nz/job/90000003",
+    "jobLink": "https://www.seek.co.nz/job/90000003",
+    "applyLink": "https://www.seek.co.nz/job/90000003/apply",
+    "title": "Warehouse Team Leader",
+    "teaser": "Lead a day-shift crew of 12 in a modern distribution centre.",
+    "jobHook": "Monday to Friday, no weekends",
+    "abstract": "Lead a day-shift crew of 12 in a modern distribution centre.",
+    "content": "<p>About the role: run daily pick, pack and dispatch targets for a team of 12.</p><p>About you: two or more years leading a warehouse team.</p>",
+    "contentText": "About the role: run daily pick, pack and dispatch targets for a team of 12. About you: two or more years leading a warehouse team.",
+    "contentSections": [
+      "About the role: run daily pick, pack and dispatch targets for a team of 12.",
+      "About you: two or more years leading a warehouse team."
+    ],
+    "bulletPoints": [
+      "Day shift, Monday to Friday",
+      "Forklift licence an advantage",
+      "Clear path to operations manager"
+    ],
+    "companyName": "Kauri Bay Logistics",
+    "companyId": "900303",
+    "companyUrl": "https://www.seek.co.nz/companies/kauri-bay-logistics-900303",
+    "companyNameSlug": "kauri-bay-logistics-900303",
+    "companyProfileId": 900303,
+    "companyOverview": "Kauri Bay Logistics is a fictional employer used in this mock sample.",
+    "companyIndustry": "Transport & Logistics",
+    "companySize": "501-1,000 employees",
+    "companyWebsite": "https://www.example.com/kauri-bay-logistics",
+    "companySpecialities": [
+      "Example speciality A",
+      "Example speciality B"
+    ],
+    "companyPrimaryLocation": "East Tamaki, Auckland",
+    "companyLogo": "https://image-service-cdn.seek.com.au/example/logo-900303.png",
+    "companyCoverImage": "https://image-service-cdn.seek.com.au/example/cover-900303.jpg",
+    "companyRating": 4.0,
+    "companyReviewCount": 58,
+    "companySalaryRating": 4,
+    "companyPerks": [
+      "Staff discount",
+      "Health insurance"
+    ],
+    "companyAwards": [
+      {
+        "name": "Example Employer Award",
+        "year": 2025,
+        "imageUrl": "https://image-service-cdn.seek.com.au/example/award.png"
+      }
+    ],
+    "advertiserId": "80000003",
+    "advertiserName": "Kauri Bay Logistics",
+    "locationLabel": "East Tamaki, Auckland",
+    "locationSeoHierarchy": [
+      "East Tamaki Auckland",
+      "East Tamaki, Auckland"
+    ],
+    "countryCode": "NZ",
+    "classifications": [
+      {
+        "id": "1220",
+        "label": "Logistics & Warehousing (mock category)",
+        "subId": "6305",
+        "subLabel": "Warehousing, Storage & Distribution"
+      }
+    ],
+    "classificationInfo": {
+      "classification": "Logistics & Warehousing (mock category)",
+      "subClassification": "Warehousing, Storage & Distribution",
+      "classificationId": "1220",
+      "subClassificationId": "6305"
+    },
+    "workTypes": [
+      "Full time"
+    ],
+    "workTypeIds": [
+      "242"
+    ],
+    "workArrangements": [
+      {
+        "id": "1",
+        "label": {
+          "text": "On-site"
+        }
+      }
+    ],
+    "workArrangementLabels": [
+      "On-site"
+    ],
+    "workArrangementDisplayText": null,
+    "salaryLabel": "$68,000 - $75,000 per year",
+    "salary": "$68,000 - $75,000 per year",
+    "salaryCurrency": "NZD",
+    "salaryMin": 68000,
+    "salaryMax": 75000,
+    "salaryPeriod": "annual",
+    "phoneNumber": null,
+    "phoneNumbers": [
+      "09 555 0147"
+    ],
+    "phoneNumbersFromBody": [
+      "09 555 0147"
+    ],
+    "emails": [],
+    "contactMatches": [
+      {
+        "type": "phone",
+        "value": "09 555 0147"
+      }
+    ],
+    "shareLink": "https://www.seek.co.nz/job/90000003?type=share",
+    "listingDate": "2026-01-12T20:00:00.000Z",
+    "listingDateDisplay": "3d ago",
+    "expiresAt": "2026-02-11T10:59:59.999Z",
+    "isVerified": true,
+    "isExpired": false,
+    "status": "Active",
+    "isLinkOut": false,
+    "sourceZone": "anz-1",
+    "jobVideoUrl": "https://www.youtube.com/watch?v=EXAMPLE0001",
+    "jobVideoPosition": "BOTTOM",
+    "displayTags": [],
+    "roleId": "warehouse-team-leader",
+    "tags": [
+      {
+        "type": "EARLY_APPLICANT",
+        "label": "Be an early applicant"
+      }
+    ],
+    "jobLocationInfo": {
+      "displayLocation": "East Tamaki, Auckland",
+      "location": "East Tamaki",
+      "area": null,
+      "countryCode": "NZ",
+      "seoHierarchy": [
+        "East Tamaki Auckland",
+        "East Tamaki, Auckland"
+      ]
+    },
+    "branding": {
+      "serpLogoUrl": "https://image-service-cdn.seek.com.au/example/logo-900303.png"
+    },
+    "advertiser": {
+      "logo": "https://image-service-cdn.seek.com.au/example/logo-900303.png",
+      "id": "80000003",
+      "name": "Kauri Bay Logistics",
+      "isVerified": true,
+      "registrationDate": "2019-03-14T00:00:00.000Z"
+    },
+    "companyOpenJobs": "Kauri Bay Logistics",
+    "companyTags": [],
+    "advertiserRaw": {
+      "id": "80000003",
+      "description": "Kauri Bay Logistics"
+    },
+    "employerRaw": {
+      "id": "80000003",
+      "name": "Kauri Bay Logistics",
+      "companyId": "900303",
+      "companyUrl": "https://www.seek.co.nz/companies/kauri-bay-logistics-900303"
+    },
+    "brandingRaw": {
+      "serpLogoUrl": "https://image-service-cdn.seek.com.au/example/logo-900303.png"
+    },
+    "companyProfileRaw": {
+      "id": "900303",
+      "name": "Kauri Bay Logistics",
+      "companyNameSlug": "kauri-bay-logistics-900303",
+      "shouldDisplayReviews": true,
+      "branding": {
+        "logo": "https://image-service-cdn.seek.com.au/example/logo-900303.png"
+      },
+      "overview": {
+        "description": {
+          "paragraphs": [
+            "Kauri Bay Logistics is a fictional employer used in this mock sample."
+          ]
+        },
+        "industry": "Transport & Logistics",
+        "size": {
+          "description": "501-1,000 employees"
+        },
+        "website": {
+          "url": "https://www.example.com/kauri-bay-logistics"
+        },
+        "specialities": "Example speciality A, Example speciality B",
+        "primaryLocation": "East Tamaki, Auckland"
+      },
+      "reviewsSummary": {
+        "overallRating": {
+          "value": 4.0,
+          "numberOfReviews": {
+            "value": 58
+          }
+        },
+        "salaryRating": {
+          "value": 4
+        }
+      },
+      "perksAndBenefits": [
+        {
+          "title": "Staff discount"
+        },
+        {
+          "title": "Health insurance"
+        }
+      ],
+      "awards": [
+        {
+          "name": "Example Employer Award",
+          "year": 2025,
+          "imageUrl": "https://image-service-cdn.seek.com.au/example/award.png"
+        }
+      ]
+    },
+    "isFeatured": false,
+    "displayType": "promoted",
+    "adProductType": null,
+    "postedTime": "3d ago",
+    "detailFetched": true,
+    "scrapedAt": "2026-01-15T03:00:00.000Z",
+    "numApplicants": 41,
+    "applicantCountLabel": "41 applicants",
+    "applicantVolumeLabel": "Some applicants (mock label)",
+    "resumePercentage": 90,
+    "coverLetterPercentage": 40,
+    "employerQuestions": [
+      "Do you hold a current forklift licence (F endorsement)?"
+    ],
+    "hasRoleRequirements": true,
+    "isPrivateAdvertiser": false,
+    "recruiterProfile": null,
+    "locationSuburb": "East Tamaki",
+    "locationState": "Auckland",
+    "locationPostcode": "2013",
+    "isRepost": false,
+    "repostOfId": null,
+    "searchQuery": null,
+    "searchUrl": "https://www.seek.co.nz/jobs?keywords=example",
+    "urlsFromBody": [],
+    "socialProfiles": []
+  }
+]
